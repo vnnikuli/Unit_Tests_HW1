@@ -22,4 +22,4 @@ class TestCalculator(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main(verbosity=2) # verbosity=2 подробный вывод результата теста, кровни от 0-2
+    unittest.main(verbosity=2) # verbosity=2 подробный вывод результата теста, кровни от 0-2.
